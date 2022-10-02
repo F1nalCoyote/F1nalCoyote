@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @F1nalCoyote - or Colin!
 - 👀 I’m interested in open-source software development in healthcare; specifically healthcare sim but other areas too.
 -    I might fork your repo - I'm looking at a lot of projects to help me learn!
-- 🌱 I’m currently learning a lot!
--     Used to develop on VB and C++ back in the day.
--     
+- 🌱 I’m currently learning a lot! Used to develop on VB and C++ back in the day.
 - 📫 You can reach me here at GitHub if you have any questions! 
 
 <!---
